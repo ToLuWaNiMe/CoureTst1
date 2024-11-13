@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ScoreCalculator
+namespace ScoreCounter
 {
     class Program
     {
